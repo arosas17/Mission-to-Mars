@@ -1,5 +1,6 @@
 # Mission-to-Mars
 
+**To use:** Open the app.py file and run the code. Pressing the button on the top will then proceed to scrape new data.
 
 In the process of creating an app that will allow a person to scrape recent data of Mars, to further the presentation and quality of the application, the images of Mars' hemispheres from https://astrogeology.usgs.gov/. 
 
